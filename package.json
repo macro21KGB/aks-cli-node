@@ -1,8 +1,8 @@
 {
-  "name": "aks-cli-node",
+  "name": "akscli",
   "type": "module",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is a cli app for searching game on AllKeyShop (unofficial)",
   "bin": "bin/index.js",
   "main": "index.js",
   "scripts": {

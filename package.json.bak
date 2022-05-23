@@ -3,7 +3,7 @@
   "type": "module",
   "version": "1.0.1",
   "description": "This is a cli app for searching game on AllKeyShop (unofficial)",
-  "bin": "node bin/index.js",
+  "bin": "bin/index.js",
   "main": "index.js",
   "scripts": {
     "run-app": "node bin/index.js"

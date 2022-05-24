@@ -1,12 +1,12 @@
 {
   "name": "akscli",
   "type": "module",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "This is a cli app for searching game on AllKeyShop (unofficial)",
-  "bin": "node bin/index.js",
-  "main": "index.js",
+  "bin": {"akscli": "bin/index.js"},
+  "main": "bin/index.js",
   "scripts": {
-    "run-app": "node bin/index.js"
+    "start": "node bin/index.js"
   },
   "keywords": [
     "cli",
